@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.Form1.resources
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.Properties.Resources.resources
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\bin\Debug\MultiThreadedPing.exe.config
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\bin\Debug\MultiThreadedPing.exe
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\bin\Debug\MultiThreadedPing.pdb
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.exe
+C:\Users\Admin\source\repos\MultiThreadedPing\MultiThreadedPing\obj\Debug\MultiThreadedPing.pdb
